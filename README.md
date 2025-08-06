@@ -27,7 +27,18 @@ Built as part of a test assignment for MWS AI, this project showcases how Large 
 - **Custom HTML + CSS** – for theming
 
 ---
+## 🖼️ Screenshots
 
+### 🌞 Light Mode
+<img width="3370" height="808" alt="Снимок экрана 2025-07-31 164723" src="https://github.com/user-attachments/assets/6c483680-2482-4271-b801-47df837bcbe8" />
+
+### 🌙 Dark Mode
+<img width="3438" height="1203" alt="Снимок экрана 2025-08-01 012450" src="https://github.com/user-attachments/assets/bac10832-800b-4698-8f05-045d23213a5d" />
+
+
+> Screenshots demonstrate the clean UI in both visual styles, showing how the app adapts for readability and user comfort.
+
+---
 ## 🚀 Installation
 
 1. **Clone the repository**:
